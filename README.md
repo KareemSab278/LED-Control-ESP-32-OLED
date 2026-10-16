@@ -1,3 +1,5 @@
+please refer to git repo 'express' if you have access to it.
+
 i created this because the lib 'RS_WS281X' works on the pi4b but not the 5.
 something about 'hardware failure'.
 
